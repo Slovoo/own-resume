@@ -1,5 +1,14 @@
+  @import url('https://fonts.googleapis.com/css2?family=Manrope&family=Roboto:ital@1&display=swap');
   * {
     box-sizing: border-box;
+    
+  }
+
+    body {
+    color: black;
+    font-family: 'Manrope', sans-serif;
+    font-size: 23px;
+    font-style: normal;
   }
 
   .cv {
@@ -26,14 +35,7 @@
     padding: 0 64px;
   }
 
-  body {
-    color: black;
-    font-family: 'Manrope', sans-serif;
-    font-size: 23px;
-    font-style: normal;
-  }
-
-  h1 {
+   h1 {
     color: black;
     font-family: 'Manrope', sans-serif;
     font-size: 120px;
@@ -60,10 +62,4 @@
     font-weight: 400;
     letter-spacing: 1%;
   }
-
-  .line2 {
-    position: relative;
-    top: -80px;
-    left: 240px;
-    overflow: visible;
-  }
+  
